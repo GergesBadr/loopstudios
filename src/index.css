@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .responsive-container {
+    @apply mx-4 sm:mx-10 md:mx-16 lg:mx-28 xl:mx-36 2xl:mx-64;
+  }
+
+  /* Headings */
+  .heading-1 {
+    @apply text-[clamp(1.5rem,8vw,3rem)];
+  }
+  .heading-2 {
+    @apply text-[clamp(1.5rem,4vw,2.25rem)];
+  }
+}
