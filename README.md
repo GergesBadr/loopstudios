@@ -6,7 +6,7 @@ It has been a while since I have completed a [frontend mentor](https://www.front
 
  
 ## Demo
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/loopstudios-landing-page-bYS-WQtEMq)
+- [Live Site URL](https://loop-studios-frontend-mentor.netlify.app/)
 
 ![desktop-preview](https://github.com/GergesBadr/loopstudios/assets/110337209/56c68c81-af55-4456-8ba3-b2c23743676f)
